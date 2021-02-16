@@ -1,0 +1,15 @@
+D:\CG\Projects\PCS\SignalRSampleProject\SignalRSampleUI\bin\Debug\netcoreapp3.1\SignalRSampleUI.exe
+D:\CG\Projects\PCS\SignalRSampleProject\SignalRSampleUI\obj\Debug\netcoreapp3.1\SignalRSampleUI.csprojAssemblyReference.cache
+D:\CG\Projects\PCS\SignalRSampleProject\SignalRSampleUI\obj\Debug\netcoreapp3.1\SignalRSampleUI.AssemblyInfoInputs.cache
+D:\CG\Projects\PCS\SignalRSampleProject\SignalRSampleUI\obj\Debug\netcoreapp3.1\SignalRSampleUI.AssemblyInfo.cs
+D:\CG\Projects\PCS\SignalRSampleProject\SignalRSampleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\CG\Projects\PCS\SignalRSampleProject\SignalRSampleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\CG\Projects\PCS\SignalRSampleProject\SignalRSampleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\CG\Projects\PCS\SignalRSampleProject\SignalRSampleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\CG\Projects\PCS\SignalRSampleProject\SignalRSampleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CG\Projects\PCS\SignalRSampleProject\SignalRSampleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CG\Projects\PCS\SignalRSampleProject\SignalRSampleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\CG\Projects\PCS\SignalRSampleProject\SignalRSampleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\CG\Projects\PCS\SignalRSampleProject\SignalRSampleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CG\Projects\PCS\SignalRSampleProject\SignalRSampleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\CG\Projects\PCS\SignalRSampleProject\SignalRSampleUI\obj\Debug\netcoreapp3.1\SignalRSampleUI.csproj.CopyComplete

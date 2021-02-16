@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "YS2/NjB2kS8Rnrvj5LnkqmX5LCkz5uu2HmOMZ1N4dH4JqMgs/xtaur/QaGFTwtwHShJg0S3TgRlDx4Cxityfaw==",
+  "success": true,
+  "projectFilePath": "D:\\CG\\Projects\\PCS\\SignalRSampleProject\\SignalRSampleUI\\SignalRSampleUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edongala\\.nuget\\packages\\microsoft.aspnetcore.nodeservices\\3.1.6\\microsoft.aspnetcore.nodeservices.3.1.6.nupkg.sha512",
+    "C:\\Users\\edongala\\.nuget\\packages\\microsoft.aspnetcore.spaservices\\3.1.6\\microsoft.aspnetcore.spaservices.3.1.6.nupkg.sha512",
+    "C:\\Users\\edongala\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\3.1.6\\microsoft.aspnetcore.spaservices.extensions.3.1.6.nupkg.sha512",
+    "C:\\Users\\edongala\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.6\\microsoft.extensions.configuration.3.1.6.nupkg.sha512",
+    "C:\\Users\\edongala\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.6\\microsoft.extensions.configuration.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\edongala\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.6\\microsoft.extensions.configuration.binder.3.1.6.nupkg.sha512",
+    "C:\\Users\\edongala\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.6\\microsoft.extensions.dependencyinjection.3.1.6.nupkg.sha512",
+    "C:\\Users\\edongala\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6\\microsoft.extensions.dependencyinjection.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\edongala\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.6\\microsoft.extensions.fileproviders.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\edongala\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.6\\microsoft.extensions.fileproviders.physical.3.1.6.nupkg.sha512",
+    "C:\\Users\\edongala\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.6\\microsoft.extensions.filesystemglobbing.3.1.6.nupkg.sha512",
+    "C:\\Users\\edongala\\.nuget\\packages\\microsoft.extensions.logging\\3.1.6\\microsoft.extensions.logging.3.1.6.nupkg.sha512",
+    "C:\\Users\\edongala\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.6\\microsoft.extensions.logging.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\edongala\\.nuget\\packages\\microsoft.extensions.logging.configuration\\3.1.6\\microsoft.extensions.logging.configuration.3.1.6.nupkg.sha512",
+    "C:\\Users\\edongala\\.nuget\\packages\\microsoft.extensions.logging.console\\3.1.6\\microsoft.extensions.logging.console.3.1.6.nupkg.sha512",
+    "C:\\Users\\edongala\\.nuget\\packages\\microsoft.extensions.options\\3.1.6\\microsoft.extensions.options.3.1.6.nupkg.sha512",
+    "C:\\Users\\edongala\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\3.1.6\\microsoft.extensions.options.configurationextensions.3.1.6.nupkg.sha512",
+    "C:\\Users\\edongala\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\microsoft.extensions.primitives.3.1.6.nupkg.sha512",
+    "C:\\Users\\edongala\\.nuget\\packages\\microsoft.typescript.msbuild\\3.9.5\\microsoft.typescript.msbuild.3.9.5.nupkg.sha512",
+    "C:\\Users\\edongala\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\edongala\\.nuget\\packages\\nlog\\4.7.2\\nlog.4.7.2.nupkg.sha512",
+    "C:\\Users\\edongala\\.nuget\\packages\\nlog.extensions.logging\\1.6.4\\nlog.extensions.logging.1.6.4.nupkg.sha512",
+    "C:\\Users\\edongala\\.nuget\\packages\\nlog.web.aspnetcore\\4.9.3\\nlog.web.aspnetcore.4.9.3.nupkg.sha512"
+  ],
+  "logs": []
+}
