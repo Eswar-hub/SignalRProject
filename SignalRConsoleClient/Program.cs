@@ -10,9 +10,9 @@ namespace SignalRConsoleClient
             var connection = new HubConnectionBuilder().WithUrl("http://localhost:5000/notification").Build();
             connection.StartAsync().Wait();
             connection.InvokeAsync("SendMessage", "eswar", "Hello World");
-            connection.On("ReceiveMessage", (string username, string message) =>
+            connection.On("ReceiveMessage", (string message) =>
              {
-                 Console.WriteLine(username + ":" + message);
+                 Console.WriteLine( message);
              });
             Console.ReadLine();
         }
