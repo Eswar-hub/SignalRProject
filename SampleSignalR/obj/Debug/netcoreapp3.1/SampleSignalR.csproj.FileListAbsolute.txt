@@ -1,0 +1,13 @@
+D:\CG\Projects\PCS\SignalRSampleProject\SampleSignalR\bin\Debug\netcoreapp3.1\SampleSignalR.exe
+D:\CG\Projects\PCS\SignalRSampleProject\SampleSignalR\bin\Debug\netcoreapp3.1\SampleSignalR.deps.json
+D:\CG\Projects\PCS\SignalRSampleProject\SampleSignalR\bin\Debug\netcoreapp3.1\SampleSignalR.runtimeconfig.json
+D:\CG\Projects\PCS\SignalRSampleProject\SampleSignalR\bin\Debug\netcoreapp3.1\SampleSignalR.runtimeconfig.dev.json
+D:\CG\Projects\PCS\SignalRSampleProject\SampleSignalR\bin\Debug\netcoreapp3.1\SampleSignalR.dll
+D:\CG\Projects\PCS\SignalRSampleProject\SampleSignalR\bin\Debug\netcoreapp3.1\SampleSignalR.pdb
+D:\CG\Projects\PCS\SignalRSampleProject\SampleSignalR\obj\Debug\netcoreapp3.1\SampleSignalR.csprojAssemblyReference.cache
+D:\CG\Projects\PCS\SignalRSampleProject\SampleSignalR\obj\Debug\netcoreapp3.1\SampleSignalR.AssemblyInfoInputs.cache
+D:\CG\Projects\PCS\SignalRSampleProject\SampleSignalR\obj\Debug\netcoreapp3.1\SampleSignalR.AssemblyInfo.cs
+D:\CG\Projects\PCS\SignalRSampleProject\SampleSignalR\obj\Debug\netcoreapp3.1\SampleSignalR.csproj.CoreCompileInputs.cache
+D:\CG\Projects\PCS\SignalRSampleProject\SampleSignalR\obj\Debug\netcoreapp3.1\SampleSignalR.dll
+D:\CG\Projects\PCS\SignalRSampleProject\SampleSignalR\obj\Debug\netcoreapp3.1\SampleSignalR.pdb
+D:\CG\Projects\PCS\SignalRSampleProject\SampleSignalR\obj\Debug\netcoreapp3.1\SampleSignalR.genruntimeconfig.cache
